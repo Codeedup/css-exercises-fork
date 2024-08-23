@@ -1,0 +1,19 @@
+.odd-number {
+    background-color: rgb(100,75,80);
+    font-family: Verdana, DejaVu Sans,sans-serif ;
+}
+
+#First-ID {
+    color:blue ;
+    font-size: 36px;
+}
+
+.Element3 {
+    font-size: 24px;
+}
+
+#Second-ID {
+    background-color: rgb(56, 93,56);
+    font-size: 24px;
+    font-weight: bold;
+}
